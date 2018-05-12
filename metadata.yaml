@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '31817'
     url: http://www.gutenberg.org/2009/agents/31817
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26138#In-the-Flash-Ranging-Service--13-Observations-of-an-American-Soldier-During-His-Service-With-_
 gutenberg_issued: '2008-07-27'
 gutenberg_type: Text
 identifiers:
